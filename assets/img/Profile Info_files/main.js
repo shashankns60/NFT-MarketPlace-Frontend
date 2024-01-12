@@ -47,7 +47,6 @@
     mainNav();
     stickyHeader();
     dynamicBackground();
-    modal();
     imageUpload();
     generalToggle();
     slickInit();
@@ -57,6 +56,7 @@
     accordian();
     countDown();
     modeSwitcher();
+    modal();
   });
 
   $(window).on('resize', function () {
